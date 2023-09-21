@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://www.canva.com/design/DAFqSS7Y5qM/4zBPvC6j8q_RDxd3GoGovQ/edit?utm_content=DAFqSS7Y5qM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFqSS7Y5qM/4zBPvC6j8q_RDxd3GoGovQ/edit?utm_content=DAFqSS7Y5qM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - <img align="right" alt="coding" width="400px"
-- src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+- src="[https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2ekEQIbA3lnffu0QR_JVjj&ust=1695363767257000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDvzK-Iu4EDFQAAAAAdAAAAABAE)"
 
 - ⚡ Fun fact **I am funny : Apples Float in Water. Moon Dust Smells.**
 
