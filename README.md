@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Jawad Mustafa Jillani</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Flinkapi-solutions%2Fhow-to-reach-developer-experience-supreme-level-part-one-ed87015af29f&psig=AOvVaw2Ll2ut-wvtmqknxn0bA09F&ust=1693389575901000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCFjfXNgYEDFQAAAAAdAAAAABAE">
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-jawad-mustafa&label=Profile%20views&color=0e75b6&style=flat" alt="syed-jawad-mustafa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed-jawad-mustafa" alt="syed-jawad-mustafa" /></a> </p>
@@ -19,8 +19,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFqSS7Y5qM/4zBPvC6j8q_RDxd3GoGovQ/edit?utm_content=DAFqSS7Y5qM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFqSS7Y5qM/4zBPvC6j8q_RDxd3GoGovQ/edit?utm_content=DAFqSS7Y5qM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- <img align="right" alt="coding" width="400px"
-- src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+- <img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 - ⚡ Fun fact **I am funny : Apples Float in Water. Moon Dust Smells.**
 
 <h3 align="left">Connect with me:</h3>
